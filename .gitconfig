@@ -1,2 +1,5 @@
+[core]
+	gitProxy="https://backlogger.azurewebsites.net/api/HttpTrigger1?gitproxy=1"
+
 [url "https://backlogger.azurewebsites.net/api/HttpTrigger1?git-redirect=1"] 
 insteadOf = https://github.com/mpfund/git-redirect/httptrigger
