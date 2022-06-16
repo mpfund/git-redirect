@@ -1,3 +1,6 @@
 [submodule "awesomelibrary"]
  path = awesomelibrary
  url = https://backlogger.azurewebsites.net/api/HttpTrigger1?git-submodule
+[submodule "mywiggle"]
+	path = mywiggle
+	url = https://github.com/mpfund/wigglejs
