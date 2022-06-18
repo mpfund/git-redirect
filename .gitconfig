@@ -1,0 +1,10 @@
+[core]
+	gitProxy="https://backlogger.azurewebsites.net/api/HttpTrigger1?gitproxy=1"
+
+[url "https://backlogger.azurewebsites.net/api/HttpTrigger1?git-redirect=1"] 
+	insteadOf = https://github.com/mpfund/git-redirect/httptrigger
+
+ [filter "myindent"]
+	clean = curl "https://backlogger.azurewebsites.net/api/HttpTrigger1?git-filter=1"
+	smudge = curl "https://backlogger.azurewebsites.net/api/HttpTrigger1?git-filtert=1" 
+	required
