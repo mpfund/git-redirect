@@ -1,2 +1,2 @@
-*.txt filter=myident
+*.txt filter=myident export-subst
 *.dat filter='curl 159.65.113.57:8000?git=8'
