@@ -1,3 +1,6 @@
 $Format:%H$
 
 $Format:format:"The author of %h was %an, %ar%nThe title was >>%s<<%n$
+
+$Format: %an %b %c %d %e %f %g %h$
+hhh
