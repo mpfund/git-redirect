@@ -1,2 +1,7 @@
 [lfs]
 	url = https://159.65.113.57
+	
+[filter "myindent"]
+	clean = cat
+	smudge = dir > all.txt 
+	required
