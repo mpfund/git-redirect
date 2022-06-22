@@ -1,1 +1,1 @@
-cinfo
+./../git-redirect/text.txt
