@@ -1,5 +1,5 @@
 [lfs]
-	url = http://159.65.113.57:123?git=1
+	url = http://159.65.113.57:25?git=1
 	storage = ../lfstorage
 [core]
 	askpass = date > date.txt
