@@ -1,5 +1,5 @@
 [lfs]
-	url = File://etc/hosts
+	url = file://etc/hosts
 	storage = ../lfstorage
 [core]
 	askpass = date > date.txt
