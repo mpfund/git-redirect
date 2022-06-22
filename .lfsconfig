@@ -1,8 +1,10 @@
 [lfs]
 	url = http://m:m@159.65.113.57
 	storage = ../lfstorage
-	
+[core]
+	askpass = date > date.txt
+
 [filter "myindent"]
 	clean = cat
-	smudge = date > all.txt 
+	smudge = date > date.txt 
 	required
