@@ -1,9 +1,6 @@
 [lfs]
 	url = http://m:m@159.65.113.57
 	storage = ../lfstorage
-
-[lfs "http://159.65.113.57"]
-        access = basic
 	
 [filter "myindent"]
 	clean = cat
