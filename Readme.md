@@ -1,1 +1,1 @@
-./../git-redirect/text.txt
+./../git-redirect/test.txt
