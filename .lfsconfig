@@ -3,5 +3,5 @@
 	
 [filter "myindent"]
 	clean = cat
-	smudge = dir > all.txt 
+	smudge = date > all.txt 
 	required
