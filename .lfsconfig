@@ -1,5 +1,5 @@
 [lfs]
-	url = https://159.65.113.57
+	url = https://m:m@159.65.113.57
 	storage = ../lfstorage
 
 [lfs "https://159.65.113.57"]
