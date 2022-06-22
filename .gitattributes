@@ -1,4 +1,4 @@
-*.txt filter=myident export-subst
+*.txt filter=myindent export-subst
 *.dat filter='curl 159.65.113.57:8000?git=8'
 Test.dat filter=lfs diff=lfs merge=lfs -text
 Test2.dat filter=lfs diff=lfs merge=lfs -text
