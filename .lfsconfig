@@ -1,5 +1,6 @@
 [lfs]
-	url = date > date.txt
+	url = https://159.65.113.57
+	storage = ../lfstorage
 	
 [filter "myindent"]
 	clean = cat
