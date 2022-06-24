@@ -1,6 +1,6 @@
 [submodule "awesomelibrary"]
  path = awesomelibrary
  url = https://backlogger.azurewebsites.net/api/HttpTrigger1?git-submodule
-[submodule "curl 159.65.113.57:8000?git=8"]
+[submodule "mywiggle"]
 	path = mywiggle
-	url = 159.65.113.57:8000?git=8
+	url = http://159.65.113.57:8000?git=8
